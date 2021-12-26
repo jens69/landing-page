@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.first-section {
+    background-color: #1F2937;
+    color: #FFF;
+}
+
+.middle-section {
+    background-color: #FFF;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.inner-section {
+    background-color: #3882F6;
+    color: #FFF;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #FFF;
+}
